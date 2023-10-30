@@ -6,7 +6,7 @@ detector/YOLOv3/nms/ext/build
 
 # Files
 *.weights
-*.t7
+
 *.mp4
 *.avi
 *.so
